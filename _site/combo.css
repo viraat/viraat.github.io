@@ -558,26 +558,42 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-contact { border-color: #CDCDCD; }
-  #contact { background-color: #CDCDCD !important; color: #2C2B29; }
+  nav .p-contact { border-color: #78746F; }
+  #contact { background-color: #78746F !important; color: #2C2B29; }
   #contact a { color: #2C2B29; }
-  #contact .sectiondivider { color: #CDCDCD; }
+  #contact .sectiondivider { color: #78746F; }
 
   
   
   
-  nav .p-work { border-color: #DEDEDE; }
-  #work { background-color: #DEDEDE !important; color: #2C2B29; }
+  nav .p-accomplishments { border-color: #A9A59D; }
+  #accomplishments { background-color: #A9A59D !important; color: #2C2B29; }
+  #accomplishments a { color: #2C2B29; }
+  #accomplishments .sectiondivider { color: #A9A59D; }
+
+  
+  
+  
+  nav .p-coursework { border-color: #CDCDCD; }
+  #coursework { background-color: #CDCDCD !important; color: #2C2B29; }
+  #coursework a { color: #2C2B29; }
+  #coursework .sectiondivider { color: #CDCDCD; }
+
+  
+  
+  
+  nav .p-education { border-color: #DEDEDE; }
+  #education { background-color: #DEDEDE !important; color: #2C2B29; }
+  #education a { color: #2C2B29; }
+  #education .sectiondivider { color: #DEDEDE; }
+
+  
+  
+  
+  nav .p-work { border-color: #EFEFEF; }
+  #work { background-color: #EFEFEF !important; color: #2C2B29; }
   #work a { color: #2C2B29; }
-  #work .sectiondivider { color: #DEDEDE; }
-
-  
-  
-  
-  nav .p-portfolio { border-color: #EFEFEF; }
-  #portfolio { background-color: #EFEFEF !important; color: #2C2B29; }
-  #portfolio a { color: #2C2B29; }
-  #portfolio .sectiondivider { color: #EFEFEF; }
+  #work .sectiondivider { color: #EFEFEF; }
 
   
   
