@@ -1,0 +1,7 @@
+---
+title: "education"
+bg: gray2
+color: black
+fa-icon: navicon
+---
+
