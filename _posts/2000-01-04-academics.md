@@ -1,0 +1,33 @@
+---
+title: "academic skills"
+bg: gray3
+color: black
+fa-icon: navicon
+---
+<h3>Course Work</h3>
+<ul class="large">
+	<li>Data Structures</li>
+	<li>Database Management Systems</li>
+	<li>Digital Electronics and Logic Design</li>
+	<li>Signals and Systems</li>
+	<li>Digital Signal Processing</li>
+	<li>Operating Systems</li>
+	<li>Web Technologies</li>
+	<li>Design and Analysis of Algorithms</li>
+</ul>
+<hr />
+<h3>Projects</h3>
+<ul class="large">
+	<li>
+		<strong>Basic encryption and decryption of simple messages</strong>, Dept. of Information Technology, CBIT <br />
+		<i>(1/10/2013 – 1/12/2013)</i>
+	</li>
+	<li>
+		<strong>Android app development using Java</strong>, Dept. of Information Technology, CBIT  <br />
+		<i>(20/1/2014 – 20/4/2014)</i>
+	</li>
+	<li>
+		<strong>Website development using Web Technologies</strong>, CBIT Dept. of Information Technology, CBIT <br />
+		<i>(20/7/2014 – 20/12/2014)</i>
+	</li>
+</ul>

@@ -113,14 +113,14 @@
 	ul, ol { margin-bottom: 20px; }
 	ul { list-style: none outside; }
 	ol { list-style: decimal; }
-	ul, ul.square { list-style: square outside; }
-	ul ul, ul.circle { list-style: circle outside; }
-	ul ul ul, ul.disc { list-style: disc outside; }
+	ul, ul.square { list-style: square outside; color: 'FF3636';}
+	ul ul, ul.circle { list-style: circle outside; color: '#FF3636'; }
+	ul ul ul, ul.disc { list-style: disc outside; color: '#FF3636';}
 	ul ul li, ul ol li,
-	ol ol li, ol ul li { margin-bottom: 6px; }
-	li { line-height: 18px; margin-bottom: 12px; }
-	ul.large li { line-height: 21px; }
-	li p { line-height: 21px; }
+	ol ol li, ol ul li { margin-bottom: 6px; color: '#FF3636';}
+	li { line-height: 18px; margin-bottom: 12px; color: '#FF3636';}
+	ul.large li { line-height: 21px; color: '#FF3636'; list-style: disc outside;}
+	li p { line-height: 21px; color: '#FF3636';}
 
 /* #Images
 ================================================== */
@@ -574,10 +574,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-coursework { border-color: #CDCDCD; }
-  #coursework { background-color: #CDCDCD !important; color: #2C2B29; }
-  #coursework a { color: #2C2B29; }
-  #coursework .sectiondivider { color: #CDCDCD; }
+  nav .p-academics { border-color: #CDCDCD; }
+  #academics { background-color: #CDCDCD !important; color: #2C2B29; }
+  #academics a { color: #2C2B29; }
+  #academics .sectiondivider { color: #CDCDCD; }
 
   
   
