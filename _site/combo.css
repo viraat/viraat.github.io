@@ -492,20 +492,20 @@ html { box-sizing: border-box; }
 .text-briwhite a { color: #FFFFFF; }
 .bg-briwhite     { background-color: #FFFFFF !important; }
 
-.border-warmgray1 { border-color: #A9A59D !important; }
-.text-warmgray1   { color: #A9A59D; }
-.text-warmgray1 a { color: #A9A59D; }
-.bg-warmgray1     { background-color: #A9A59D !important; }
+.border-warmgray1 { border-color: #B8B8B8 !important; }
+.text-warmgray1   { color: #B8B8B8; }
+.text-warmgray1 a { color: #B8B8B8; }
+.bg-warmgray1     { background-color: #B8B8B8 !important; }
 
-.border-warmgray2 { border-color: #78746F !important; }
-.text-warmgray2   { color: #78746F; }
-.text-warmgray2 a { color: #78746F; }
-.bg-warmgray2     { background-color: #78746F !important; }
+.border-warmgray2 { border-color: #A4A4A4 !important; }
+.text-warmgray2   { color: #A4A4A4; }
+.text-warmgray2 a { color: #A4A4A4; }
+.bg-warmgray2     { background-color: #A4A4A4 !important; }
 
-.border-warmgray3 { border-color: #4B4945 !important; }
-.text-warmgray3   { color: #4B4945; }
-.text-warmgray3 a { color: #4B4945; }
-.bg-warmgray3     { background-color: #4B4945 !important; }
+.border-warmgray3 { border-color: #909090 !important; }
+.text-warmgray3   { color: #909090; }
+.text-warmgray3 a { color: #909090; }
+.bg-warmgray3     { background-color: #909090 !important; }
 
 .border-gray1 { border-color: #EFEFEF !important; }
 .text-gray1   { color: #EFEFEF; }
@@ -558,18 +558,18 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-contact { border-color: #78746F; }
-  #contact { background-color: #78746F !important; color: #2C2B29; }
+  nav .p-contact { border-color: #A4A4A4; }
+  #contact { background-color: #A4A4A4 !important; color: #2C2B29; }
   #contact a { color: #2C2B29; }
-  #contact .sectiondivider { color: #78746F; }
+  #contact .sectiondivider { color: #A4A4A4; }
 
   
   
   
-  nav .p-accomplishments { border-color: #A9A59D; }
-  #accomplishments { background-color: #A9A59D !important; color: #2C2B29; }
+  nav .p-accomplishments { border-color: #B8B8B8; }
+  #accomplishments { background-color: #B8B8B8 !important; color: #2C2B29; }
   #accomplishments a { color: #2C2B29; }
-  #accomplishments .sectiondivider { color: #A9A59D; }
+  #accomplishments .sectiondivider { color: #B8B8B8; }
 
   
   
