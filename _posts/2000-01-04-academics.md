@@ -4,18 +4,6 @@ bg: gray3
 color: black
 fa-icon: navicon
 ---
-<h3>Course Work</h3>
-<ul class="large">
-	<li>Data Structures</li>
-	<li>Database Management Systems</li>
-	<li>Digital Electronics and Logic Design</li>
-	<li>Signals and Systems</li>
-	<li>Digital Signal Processing</li>
-	<li>Operating Systems</li>
-	<li>Web Technologies</li>
-	<li>Design and Analysis of Algorithms</li>
-</ul>
-<hr />
 <h3>Projects</h3>
 <ul class="large">
 	<li>
@@ -30,4 +18,16 @@ fa-icon: navicon
 		<strong>Website development using Web Technologies</strong>, CBIT Dept. of Information Technology, CBIT <br />
 		<i>(20/7/2014 – 20/12/2014)</i>
 	</li>
+</ul>
+<hr />
+<h3>Course Work</h3>
+<ul class="large">
+	<li>Data Structures</li>
+	<li>Database Management Systems</li>
+	<li>Digital Electronics and Logic Design</li>
+	<li>Signals and Systems</li>
+	<li>Digital Signal Processing</li>
+	<li>Operating Systems</li>
+	<li>Web Technologies</li>
+	<li>Design and Analysis of Algorithms</li>
 </ul>
