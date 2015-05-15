@@ -21,7 +21,7 @@ description: "Landing page of Viraat Aryabumi"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicons/favicon.ico"
 touch_icon:  "img/favicons/apple-touch-icon.png"
-google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-58878965-1  ## put YOUR key here to enable tracking! (blank to disable)
 
 gems:
   - octopress-minify-html
