@@ -11,7 +11,7 @@ permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: rouge
+
 
 
 ### content configuration ###
@@ -22,9 +22,6 @@ source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicons/favicon.ico"
 touch_icon:  "img/favicons/apple-touch-icon.png"
 google_analytics_key: UA-58878965-1  ## put YOUR key here to enable tracking! (blank to disable)
-
-gems:
-  - octopress-minify-html
 
 ### template colors, used site-wide via css ###
 colors:
@@ -43,3 +40,6 @@ colors:
   purple:		'#c869bf'
   orange:		'#fab125'
   turquoise:	'#0fbfcf'
+
+kramdown:
+  auto_ids:  false
