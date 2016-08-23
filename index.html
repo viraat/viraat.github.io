@@ -44,8 +44,8 @@
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
-<!--         <li class="p-blog"><a href="http://viraataryabumi.in" target="_blank">Blog</a></li>
- -->    </ul></nav>
+        <li class="p-blog"><a href="http://medium.com/viraat" target="_blank">Blog</a></li>
+    </ul></nav>
 
 
     {% for page in site.posts reversed %}
