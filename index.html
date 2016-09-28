@@ -44,7 +44,7 @@
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
-        <li class="p-blog"><a href="http://medium.com/viraat" target="_blank">Blog</a></li>
+        <li class="p-blog"><a href="https://medium.com/viraat" target="_blank">Blog</a></li>
     </ul></nav>
 
 
@@ -57,12 +57,12 @@
           <img src="{{page.icon}}" alt="section icon" /> -->
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
-        
-        
+
+
         {% elsif page.fa-icon %}
         <div class="subtlecircle sectiondivider faicon">
           <h5 class="icon-title">{{ page.title }}</h5>
-            <!-- 
+            <!--
             <span class="fa-stack">
               <i class="fa fa-stack-2x"></i>
               <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
@@ -71,7 +71,7 @@
             -->
         </div>
         {% endif %}
-        
+
         <div class="container {{ page.style }}">
           {{ page.content }}
         </div>
