@@ -8,7 +8,7 @@ fa-icon: navicon
 Bachelor's of Engineering, Information Technology
 </h3>
 <h4 style="text-align:right;display:inline-block;">
-September 2012 &mdash; Present
+September 2012 &mdash; May 2016
 </h4>
 
 <h4 style="text-align:left;">
@@ -16,7 +16,7 @@ Chaitanya Bharathi Institute of Technology<br />
 
 Osmania University, Hyderabad, India <br />
 
-Academic Score (till present) - 82.5% <br />
+Academic Score - 81.7% <br />
 </h4>
 
 <hr />

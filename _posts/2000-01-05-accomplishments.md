@@ -12,7 +12,7 @@ fa-icon: navicon
 	<li>Won the Kodai Golf Open in 2009 (‘B’ Category).</li>
 	<li>Finished 3rd at the Coorg Junior Open (2009), Ooty Junior Open(2009), Hyderabad Junior Open (2012) Golf Championships.</li>
 	<li>Design Head, Tecstasy 2014 (Departmental Fest), CBIT</li>
-	<li>Photography (www.facebook.com/var7photography/).</li>
+	<li>Photography (www.facebook.com/varphotography/).</li>
 	<li>Video reviews of custom Android ROMS (www.youtube.com/redpihd/).</li>
 	<li>Director of the International Telecommunication Union at CBIT Model United Nations 2013.</li>
 	<li>Publicity team member of Carpe Diem VI, the bienneal fest of CBIT.</li>
