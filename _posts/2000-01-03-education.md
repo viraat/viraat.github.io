@@ -16,7 +16,7 @@ Chaitanya Bharathi Institute of Technology<br />
 
 Osmania University, Hyderabad, India <br />
 
-Academic Score - 81.7% <br />
+Academic Score - 80.2% <br />
 </h4>
 
 <hr />
