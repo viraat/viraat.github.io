@@ -314,3 +314,11 @@ nav ul li:hover, nav ul li.active {
   min-width: 100%;
   min-height: 100%;
 }
+
+.center-justified {
+    text-align: justify;
+    /*-moz-text-align-last: center;*/
+    /*margin:0 auto;
+    width: 30em;*/
+    text-align-last: center;
+}
